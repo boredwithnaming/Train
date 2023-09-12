@@ -1,2 +1,2 @@
 # Train
-A biginner in programming
+A beginner in programming
